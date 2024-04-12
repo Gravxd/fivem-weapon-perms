@@ -1,6 +1,6 @@
 Extremely simple and easy to configure weapon restriction script using ace permissions to give you ease of mind regarding what weapons your players can and can't access.
 
-Allows optional messages on a per weapon basis to give information to your players such as:
+Allows optional messages on a per weapon basis to give information to your players such as:<br>
 `"Visit our store to gain access to this weapon!"`
 - Requires `ox_Lib`
 
